@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672490995 source:c:\users\asus\documents\kuliah shit\tubes\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1672490693 c:\users\asus\documents\kuliah shit\tubes\tubes\tubes.h
+	<iostream>
+
+1672491015 source:c:\users\asus\documents\kuliah shit\tubes\tubes\tubes.cpp
+	"tubes.h"
+
